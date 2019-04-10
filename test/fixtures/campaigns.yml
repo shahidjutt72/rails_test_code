@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  job_id: MyString
+  status: 1
+  external_reference: MyString
+  ad_description: MyText
+
+two:
+  job_id: MyString
+  status: 1
+  external_reference: MyString
+  ad_description: MyText
